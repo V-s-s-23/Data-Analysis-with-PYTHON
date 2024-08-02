@@ -14,7 +14,7 @@ I start by cleaning our data. Tasks during this section include:
 
 ## Once I have cleaned up our data a bit, I move the data exploration section. In this section I explore 5 high level business questions related to our data:
 
-!. What was the best month for sales? How much was earned that month?
+1. What was the best month for sales? How much was earned that month?
 
 2. What city sold the most product?
 
